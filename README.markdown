@@ -88,12 +88,13 @@ API будет доступен по адресу `http://localhost:8000`.
    ```bash
    curl -X POST -H "Content-Type: application/json" -d '{"city": "Moscow", "date": "12.06.2025", "min_temperature": 10, "max_temperature": 20}' http://localhost:8000/api/weather/forecast
    ```
-
 ## Переменные окружения
 
 В файле `.env` необходимо указать следующие переменные:
 
 - `WEATHER_API_KEY`: Ваш API-ключ от [WeatherAPI](https://www.weatherapi.com/).
+
+- 
 
 Пример файла `.env`:
 
