@@ -100,14 +100,6 @@ API будет доступен по адресу `http://localhost:8000`.
 WEATHER_API_KEY=your_weather_api_key_here
 ```
 
-## Вклад в проект
-
-1. Сделайте форк репозитория.
-2. Создайте новую ветку (`git checkout -b feature/your-feature`).
-3. Внесите изменения и закоммитьте их (`git commit -m "Add your feature"`).
-4. Отправьте ветку в репозиторий (`git push origin feature/your-feature`).
-5. Создайте запрос на включение изменений (pull request).
-
 ## Лицензия
 
 Проект распространяется под лицензией MIT. Подробности смотрите в файле [LICENSE](LICENSE).
