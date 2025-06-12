@@ -88,17 +88,6 @@ API будет доступен по адресу `http://localhost:8000`.
    ```bash
    curl -X POST -H "Content-Type: application/json" -d '{"city": "Moscow", "date": "12.06.2025", "min_temperature": 10, "max_temperature": 20}' http://localhost:8000/api/weather/forecast
    ```
-
-## Тестирование
-
-Запустите тесты с помощью pytest:
-
-```bash
-pytest
-```
-
-Убедитесь, что все зависимости установлены, а файл `.env` настроен перед запуском тестов.
-
 ## Переменные окружения
 
 В файле `.env` необходимо указать следующие переменные:
