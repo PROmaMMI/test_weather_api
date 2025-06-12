@@ -94,8 +94,12 @@ API будет доступен по адресу `http://localhost:8000`.
 
 - `WEATHER_API_KEY`: Ваш API-ключ от [WeatherAPI](https://www.weatherapi.com/).
 
+- 
+
 Пример файла `.env`:
 
 ```env
 WEATHER_API_KEY=your_weather_api_key_here
+
+WEATHER_API_URL=https://api.weatherapi.com/v1
 ```
