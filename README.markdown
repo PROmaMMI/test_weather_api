@@ -99,7 +99,3 @@ API будет доступен по адресу `http://localhost:8000`.
 ```env
 WEATHER_API_KEY=your_weather_api_key_here
 ```
-
-## Лицензия
-
-Проект распространяется под лицензией MIT. Подробности смотрите в файле [LICENSE](LICENSE).
