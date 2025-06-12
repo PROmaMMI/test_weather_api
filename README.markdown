@@ -94,7 +94,9 @@ API будет доступен по адресу `http://localhost:8000`.
 
 - `WEATHER_API_KEY`: Ваш API-ключ от [WeatherAPI](https://www.weatherapi.com/).
 
-- 
+- `WEATHER_API_URL`: Ссылка не меняется
+
+- `SECRET_KEY`: Секретный ключ из settings.py Django
 
 Пример файла `.env`:
 
